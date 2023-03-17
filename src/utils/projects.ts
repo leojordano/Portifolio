@@ -2,7 +2,7 @@ import { StaticImageData } from "next/image";
 import { IconType } from "react-icons";
 import BeliveImage from "@/images/proj_belive.png";
 import CatAppImage from "@/images/proj_catapp.jpg";
-import DefaultImage from "@/images/proj_default.png";
+import DefaultImage from "@/images/proj_default.jpg";
 import PokemonImage from "@/images/proj_pokemon.jpg";
 import { BsWordpress } from "react-icons/bs";
 import {

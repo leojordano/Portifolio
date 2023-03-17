@@ -65,7 +65,7 @@ const ProjecCard: FC<IProjectComponent> = (props) => {
           <Image
             src={image}
             alt="name"
-            className="w-20 h-20 bg-slate-400 opacity-60 object-cover top-0 left-0 rounded-full z-10 group-hover:scale-110 group-hover:opacity-100 ease-linear duration-200"
+            className="w-full h-full bg-slate-400 opacity-60 object-cover top-0 left-0 rounded-md z-10 group-hover:scale-110 group-hover:opacity-100 ease-linear duration-200"
           />
           <span className="text-slate-200 font-semibold tracking-wider py-5 relative z-20">
             {name}
